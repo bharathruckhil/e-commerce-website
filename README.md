@@ -14,15 +14,5 @@ A fully responsive and user-friendly e-commerce website built with HTML, CSS, an
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
 
-🏗️ Installation & Setup
-Clone the repository:
-git clone https://github.com/bharathruckhil/ecommerce-website.git
-Navigate to the project folder:
-bash
-Copy
-Edit
-cd ecommerce-website
-Open index.html in your browser
-
 📝 License
 This project is open-source and available under the MIT License.
